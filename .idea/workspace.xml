@@ -4,23 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90196971-31f2-439f-b30b-dfcbfc445ea8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Homework20240920.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task01/FIO.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task01/Score.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task01/Student.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task01/Subject.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task01/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task01/subject.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task04.py" afterDir="false" />
+    <list default="true" id="90196971-31f2-439f-b30b-dfcbfc445ea8" name="Changes" comment="Начальный коммит">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task01/Student.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task01/Student.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task01/Subject.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task01/subject.csv" beforeDir="false" afterPath="$PROJECT_DIR$/subject.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +26,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "PeshkovDmitry"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/PeshkovDmitry/Homework20240902.git",
+    "accountId": "45fb3927-e131-4d60-a773-2998fb15f80d"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -60,8 +61,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Дима\PycharmProjects\Homework20240902\Task01" />
       <recent name="C:\Users\Дима\PycharmProjects\Homework20240902" />
+      <recent name="C:\Users\Дима\PycharmProjects\Homework20240902\Task01" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -80,6 +81,15 @@
       <option name="presentableId" value="Default" />
       <updated>1725367775635</updated>
     </task>
+    <task id="LOCAL-00001" summary="Начальный коммит">
+      <option name="closed" value="true" />
+      <created>1725389578635</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725389578635</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -87,5 +97,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Начальный коммит" />
+    <option name="LAST_COMMIT_MESSAGE" value="Начальный коммит" />
   </component>
 </project>
