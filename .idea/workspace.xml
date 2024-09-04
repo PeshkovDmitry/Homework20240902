@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90196971-31f2-439f-b30b-dfcbfc445ea8" name="Changes" comment="Начальный коммит">
+    <list default="true" id="90196971-31f2-439f-b30b-dfcbfc445ea8" name="Changes" comment="Немного доработал задание 1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Task01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task01.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Task01/Student.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task01/Student.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task01/Subject.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task01/subject.csv" beforeDir="false" afterPath="$PROJECT_DIR$/subject.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,18 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "PeshkovDmitry"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;PeshkovDmitry&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/PeshkovDmitry/Homework20240902.git",
-    "accountId": "45fb3927-e131-4d60-a773-2998fb15f80d"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/PeshkovDmitry/Homework20240902.git&quot;,
+    &quot;accountId&quot;: &quot;45fb3927-e131-4d60-a773-2998fb15f80d&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -49,16 +47,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Python.Student.executor": "Run",
-    "Python.Task01.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Дима/PycharmProjects/Homework20240902"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.Student.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task01.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Дима/PycharmProjects/Homework20240902&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Дима\PycharmProjects\Homework20240902" />
@@ -89,7 +87,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725389578635</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Немного доработал задание 1">
+      <option name="closed" value="true" />
+      <created>1725391849498</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725391849498</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -98,6 +104,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Начальный коммит" />
-    <option name="LAST_COMMIT_MESSAGE" value="Начальный коммит" />
+    <MESSAGE value="Немного доработал задание 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Немного доработал задание 1" />
   </component>
 </project>
